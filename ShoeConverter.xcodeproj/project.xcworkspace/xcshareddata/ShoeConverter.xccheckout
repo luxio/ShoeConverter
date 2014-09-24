@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>98AFDD40-F7B8-43CB-91CD-ABBEFB491830</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShoeConverter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8D028F6CA2A880FE2F83AA372F59F14EEE462DF</key>
+		<string>github.com:luxio/ShoeConverter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShoeConverter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8D028F6CA2A880FE2F83AA372F59F14EEE462DF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:luxio/ShoeConverter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8D028F6CA2A880FE2F83AA372F59F14EEE462DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8D028F6CA2A880FE2F83AA372F59F14EEE462DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ShoeConverter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
